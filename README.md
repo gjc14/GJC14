@@ -4,7 +4,7 @@
 
 Currently:
 
-- Working on ☀️: **Productivity Tools for SMBs**
+- Working on ☀️: **Productivity Tools for SMEs**
 
 - Learning 🎒: **TypeScript, Entrepreneurship, and Spanish**
 
