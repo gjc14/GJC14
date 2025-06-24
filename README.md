@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm a React Software Developer from Taiwan**
+**I'm a Software Developer from Taiwan**
 
 Currently:
 
@@ -8,6 +8,6 @@ Currently:
 
 - Learning 🎒: **TypeScript, Entrepreneurship, and Spanish**
 
-- Fun Fact 😎: **Self-taught Programmer**
+- Projects 😎: **[Papa CMS](https://github.com/gjc14/papa), [Email Builder tailwind rewrite](https://github.com/gjc14/email-builder-js)**
 
-You could find [ME](https://yinc.me/cv) on [LinkedIn](https://www.linkedin.com/in/yinctw/)
+You could find [ME](https://yinc.me) on [LinkedIn](https://www.linkedin.com/in/yinctw/)
